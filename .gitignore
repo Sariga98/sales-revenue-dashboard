@@ -1,0 +1,29 @@
+# Power BI cache
+*.tmp
+*.bak
+
+# Auto Recovery
+*.autorecover
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python cache (if you add Python scripts later)
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
