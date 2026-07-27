@@ -1,29 +1,49 @@
-# Power BI cache
+# ==========================
+# Operating System Files
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================
+# Power BI Temporary Files
+# ==========================
 *.tmp
+*.temp
 *.bak
-
-# Auto Recovery
-*.autorecover
-
-# Logs
 *.log
 
-# Windows
-Thumbs.db
-Desktop.ini
+# Power BI Auto Recovery
+*.pbix.autosave
 
-# macOS
-.DS_Store
-
-# VS Code
+# ==========================
+# Visual Studio Code
+# ==========================
 .vscode/
 
-# Python cache (if you add Python scripts later)
+# ==========================
+# Python (Future-proofing)
+# ==========================
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
 
-# Jupyter
+# ==========================
+# Jupyter Notebook
+# ==========================
 .ipynb_checkpoints/
 
-# Environment files
+# ==========================
+# Environment Variables
+# ==========================
 .env
+
+# ==========================
+# Miscellaneous
+# ==========================
+*.swp
+*.swo
