@@ -79,7 +79,7 @@ The primary objectives of this dashboard are:
 
 Provides an overview of business performance through key performance indicators including sales, profit, orders, customers, monthly trends, category analysis, regional performance, and geographic sales distribution.
 
-![Executive Dashboard](Executive_Dashboard.png)
+![Executive Dashboard](Images/Executive_Dashboard.png)
 
 ---
 
@@ -87,14 +87,14 @@ Provides an overview of business performance through key performance indicators 
 
 Analyzes customer purchasing patterns, product performance, top customers, top-selling products, and category-level profitability.
 
-![Customer & Product Analysis](Customer_Product_Analysis.png)
+![Customer & Product Analysis](Images/Customer_Product_Analysis.png)
 ---
 
 ## 3️⃣ Advanced Sales Analysis
 
 Provides deeper operational insights including quarterly sales trends, ship mode analysis, state-level performance, monthly trends, and sub-category analysis.
 
-![Advanced Analysis](Advanced_Analysis.png)
+![Advanced Analysis](Images/Advanced_Analysis.png)
 
 ---
 
